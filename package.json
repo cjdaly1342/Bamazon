@@ -1,0 +1,19 @@
+{
+	"name": "Bamazon",
+	"version": "1.0.0",
+	"description": "Bamazon - Online Store Front",
+	"main": "bamazonCustomer.js"
+},
+"repository": {
+	"type": "git",
+	"url": "git+https://github.com/cjdaly1342/Bamazon.git"
+},
+"keywords": [],
+"author": "Chris Daly",
+"license": "ISC",
+"homepage": "https://github.com/cjdaly1342/Bamazon#readme",
+"dependencies": {
+	"cli-table": "0.3.1",
+	"inquirer": "3.2.3",
+	"mysql": "2.14.1"
+}
